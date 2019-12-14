@@ -1,0 +1,8 @@
+h1{text-align: center;}
+.carousel-inner > .carousel-item > img {
+  height: 100vh;
+}
+.basic-info{
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
