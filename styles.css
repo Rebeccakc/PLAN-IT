@@ -11,9 +11,15 @@ body{
   text-align: center;
 }
 h1{
+  font-size: 120px;
   color: white;
 }
 h2{
+  color: white;
+  font-size: 30px;
+}
+h4{
+  font-size: 20px;
   color: white;
 }
 p{
@@ -29,4 +35,61 @@ list-style: none;
 }
 a{
   color: white;
+}
+.box img{
+  width: 80vw;
+  margin: auto;
+  display: block;
+  margin-top: 5vh;
+  margin:auto;
+}
+.text{
+  position:absolute;
+  margin:inherit;
+  left: 0;
+  right: 0;
+  text-align: center;
+  top: 40%;
+  color: white;
+  font-size: 300px;
+  font-family: sans-serif;
+}
+.box {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.box h1 {
+  text-align: center;
+  margin-top: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.box h2{
+  text-align: center;
+  margin-top: 0;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#welcome {
+  text-align: center;
+  color: white;
+}
+.container {
+  text-align: center;
+}
+.box2 img{
+  width: 80vw;
+  margin: auto;
+  display: block;
+  margin-top: 5vh;
+  margin:auto;
+}
+.row {
+  text-align: center;
+  display: block;
 }
