@@ -93,3 +93,7 @@ a{
   text-align: center;
   display: block;
 }
+nav {
+  display: flex;
+  justify-content: center;
+}
