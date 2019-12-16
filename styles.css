@@ -1,3 +1,32 @@
-h1 {background-image: "IMAGES/GALAXY.jpeg" alt="Galaxy" style="width:100%;"}
-div h1 {background-image: "IMAGES/GALAXY.jpeg" alt="Galaxy" style="width:100%;";}
-#p2but {color: white;}
+ul{
+padding: 10px;
+font-size: 20px;
+}
+.navline{
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+body{
+  background-color: black;
+  text-align: center;
+}
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+p{
+  color: white;
+}
+input{
+  border: 0;
+  padding: 10px;
+  font-size: 15px;
+}
+ul{
+list-style: none;
+}
+a{
+  color: white;
+}

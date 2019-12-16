@@ -1,8 +1,29 @@
-h1{text-align: center;}
+h1{
+  text-align: center;
+  color: white;
+}
 .carousel-inner > .carousel-item > img {
   height: 100vh;
 }
 .basic-info{
   padding: 3rem 1.5rem;
   text-align: center;
+}
+p{
+  color: white;
+}
+body{
+  background-color: black;
+  text-align: center;
+}
+ul{
+padding: 10px;
+font-size: 20px;
+}
+.navline{
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+a {
+  color: white;
 }
